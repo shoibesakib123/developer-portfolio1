@@ -1,0 +1,35 @@
+.main{
+    font-family:'Roboto Mono', monospace;
+    margin: 0 ;
+    font-size: 20px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+   
+    
+}
+span{
+    color: rgb(247, 108, 9);
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.linked-button{
+    text-decoration: none;
+    padding: 5px 15px;
+    background-image: linear-gradient(red, rgb(78, 40, 40));
+    color:cornsilk;
+    border-radius: 3px;
+    font-weight: 700;
+
+}
+.flexible-container{
+    display: flex;
+   
+}
+.half-width img{
+    width: 80%;
+}
+
